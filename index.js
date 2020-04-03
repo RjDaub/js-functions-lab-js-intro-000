@@ -13,5 +13,5 @@ function happyCustomHolidayTo(holiday = Independence, name = Jessie) {
 }
 
 function holidayCountdown(holiday = Independence, days = 45) {
-  return `It's ${days} days until ${holiday}!`
+  return `It's ${days} days until ${holiday}!`;
 }
