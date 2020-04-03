@@ -1,7 +1,8 @@
 function happyHolidays() {
-  return "Happy holidays!"
-console.log(happyHolidays())
+  console.log("Happy holidays!");
 }
+happyHolidays();
+
 
 function happyHolidaysTo(Jessie) {
   return `Happy holidays, ${Jessie}!`
